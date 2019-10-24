@@ -1,11 +1,11 @@
 {
   "author": "Krishnan Anantheswaran <kananthmail-github@yahoo-inc.com>",
-  "name": "istanbul-istanbul-lib-instrument-middleware",
+  "name": "istanbul-lib-instrument-middleware",
   "description": "Connect middleware for Istanbul to handle server-side as well as browser coverage use-cases for node apps",
   "version": "0.2.3",
   "repository": {
     "type": "git",
-    "url": "git@github.com:makdon/istanbul-istanbul-lib-instrument-middleware"
+    "url": "git@github.com:makdon/istanbul-lib-instrument-middleware"
   },
   "scripts": {
     "pretest": "jshint --config ./node_modules/yui-lint/jshint.json lib/*js",
