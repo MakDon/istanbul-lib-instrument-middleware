@@ -1,4 +1,4 @@
-istanbul-istanbul-lib-instrument-middleware
+istanbul-lib-instrument-middleware
 ===================
 
 Connect middleware for getting code coverage numbers in functional tests for nodejs apps using istanbul.
